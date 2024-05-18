@@ -123,10 +123,10 @@ navigation: widget
 strings:
     productName:         "${NAME}"
     shortProductName:    Rain Forest
-    version:             1.5.0
-    shortVersion:        1.5
+    version:             1.6.0
+    shortVersion:        1.6
     versionedName:       Woof OS Arch GNU/Linux "Rain Forest"
-    shortVersionedName:  Woof OS 1.5.0
+    shortVersionedName:  Woof OS 1.6.0
     bootloaderEntryName: Woof OS
     productUrl:          https://os.lewoof.xyz/
     donateUrl:           https://buymeacoffee.com/acutewoof
